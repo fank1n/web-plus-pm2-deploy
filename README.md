@@ -1,3 +1,3 @@
-# Деплой приложения на сервер с использованием pm2
-
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+IP адрес 158.160.178.26
+Frontend https://fankin.students.nomorepartiessbs.ru/
+Backend https://api.fankin.students.nomorepartiessbs.ru/
